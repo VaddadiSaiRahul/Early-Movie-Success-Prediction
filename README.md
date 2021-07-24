@@ -1,2 +1,2 @@
 # Early-Movie-Success-Prediction
-Early success prediction of Indian movies using a novel Document Embedding approach
+Early success prediction of top 5 Indian industry's movies using a novel Document Embedding approach.
